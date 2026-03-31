@@ -3,6 +3,11 @@ Microsoft Copilot Agent Spectrum: From Retrieval to Autonomous Systems
 
 # AI Agent Spectrum Demo link: https://www.youtube.com/watch?v=VtLL09n2_Zc
 
+
+## Diagram
+
+![Architecture Diagram](flows/diagram.png)
+
 A practical demo project that shows how to build three types of AI agents using Microsoft Copilot, Copilot Studio, SharePoint, Power Automate, and external business systems.
 
 This project is based on a simple idea: **AI becomes valuable when it automates real business workflows**.
